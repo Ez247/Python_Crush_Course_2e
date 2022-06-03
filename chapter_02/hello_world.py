@@ -1,5 +1,5 @@
 """
-_Variables_: Assigns a value to something. 
+_Variables_: Allow you to assign and store a value to something*. 
 Naming & using variables:
     1. Can contain only letters, numbers, & underscorers(_). Ex. message_1 but not 1_message.
     2. Spaces are not allowed. Ex greeting_message but not greeting message.
