@@ -6,4 +6,5 @@ first_name = 'kevin'
 last_name = 'lovelace'
 full_name = f"{first_name} {last_name}"
 print('Hello, ' + full_name)
-print(f"Hello, {full_name.title()}!") #notice the difference between the 2 print statements
+print(f"Hello, {full_name.title()}!") #capitalize the first letters on the name
+
