@@ -8,8 +8,12 @@
 
 """_While loop in action_:
 """
-current_number = 1          #start counting from 1
+#start counting from 1
+current_number = 1          
 
-while current_number <= 5:  #loop through as long as current_number is less than or equal to 5
-    print(current_number)   
-    current_number += 1     #print currenr_number and add 1 to it
+#loop through as long as current_number is less than or equal to 5
+while current_number <= 5:  
+    print(current_number) 
+
+    #print current_number and add 1 to it
+    current_number += 1     
